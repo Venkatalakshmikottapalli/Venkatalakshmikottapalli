@@ -2,7 +2,7 @@
 
 🎓 **Master’s in Artificial Intelligence**  
 Yeshiva University, New York City, NY  
-GPA: 4.0 | Expected Graduation: August 2025
+GPA: 4.0 | Expected Graduation: December 2025
 
 🔗 [Portfolio Website](https://venkatalakshmikottapalli.github.io/About-me/#home)  
 📧 [Email](mailto:vkottapa@mail.yu.edu)  
@@ -40,7 +40,7 @@ Data Analysis, Machine Learning, Deep Learning, NLP, REST APIs, Agile Methodolog
 
 **Master’s in Artificial Intelligence**  
 Yeshiva University, New York City, NY  
-GPA: 4.0 | Expected Graduation: August 2025  
+GPA: 4.0 | Expected Graduation: December 2025  
 *Relevant Courses:* Machine Learning, Data Science, Neural Networks & Deep Learning, NLP, Cloud Computing
 
 **Bachelor’s in Mathematics**  
