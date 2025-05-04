@@ -17,6 +17,15 @@ I'm an aspiring AI professional with a strong foundation in data science, machin
 
 ---
 
+## 📊 GitHub Stats
+
+![Venkatalakshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatalakshmikottapalli&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatalakshmikottapalli&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=venkatalakshmikottapalli&theme=radical)
+
+
 ## 🛠️ Skills
 
 **Programming Languages:**  
